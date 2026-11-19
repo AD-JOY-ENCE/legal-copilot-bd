@@ -1,0 +1,32 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+.DS_Store
+backend/.env
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Python
+**/.venv/
+**/__pycache__/
+**/*.pyc
+
+# React / Node
+**/node_modules/
+**/dist/
+
+# Logs
+*.log
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.vscode/
