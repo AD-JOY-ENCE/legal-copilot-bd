@@ -28,3 +28,6 @@ If using macOS/Linux, use `python3 -m venv .venv`, `.venv/bin/python -m pip inst
 
 ## Safety
 Use only synthetic/sample contracts at this stage. Do not upload confidential contracts to an unreviewed system. In later phases, citations should be matched with official sources and manually reviewed.
+
+## Live
+https://legal-copilot-bd.vercel.app
